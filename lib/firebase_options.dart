@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCvwcchkwGXwRj3mFMRYxIunPNCeDFxpqU',
-    appId: '1:273490264401:web:0399c777b626d285301370',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '273490264401',
     projectId: 'flash-chat-fcb60',
     authDomain: 'flash-chat-fcb60.firebaseapp.com',
@@ -51,25 +51,25 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAVHBp0quNoMliTPclj00-U1e4NMl57NIw',
-    appId: '1:273490264401:android:06930824ea36c485301370',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '273490264401',
     projectId: 'flash-chat-fcb60',
     storageBucket: 'flash-chat-fcb60.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCIIyU1uYRCizddkhG48FBTHpS6dhzPtwE',
-    appId: '1:273490264401:ios:dac5f61b88497702301370',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '273490264401',
     projectId: 'flash-chat-fcb60',
     storageBucket: 'flash-chat-fcb60.appspot.com',
     iosBundleId: 'com.example.flashChat',
   );
 
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCIIyU1uYRCizddkhG48FBTHpS6dhzPtwE',
-    appId: '1:273490264401:ios:dac5f61b88497702301370',
+  static const  FirebaseOptions macos = FirebaseOptions(
+    apiKey: '',
+    appId: '',
     messagingSenderId: '273490264401',
     projectId: 'flash-chat-fcb60',
     storageBucket: 'flash-chat-fcb60.appspot.com',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCvwcchkwGXwRj3mFMRYxIunPNCeDFxpqU',
-    appId: '1:273490264401:web:f57701d71bfb2c19301370',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '273490264401',
     projectId: 'flash-chat-fcb60',
     authDomain: 'flash-chat-fcb60.firebaseapp.com',
